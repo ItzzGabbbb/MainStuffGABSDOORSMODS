@@ -1,2 +1,2 @@
-Hey there! this is be GabsDoorsMods official repository with the main stuff he uses.
+Hey there! this isGabsDoorsMods official repository with the main stuff he uses.
 Enjoy!
