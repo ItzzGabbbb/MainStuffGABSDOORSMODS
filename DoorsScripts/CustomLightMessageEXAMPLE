@@ -1,0 +1,10 @@
+_G.CustomDeathMessage = {
+    G_Message = {
+        "Yo, thanks for using the custom light message by ItzzGabbbb!",
+        "Enjoy and have fun!!"
+    }, --Change it or add captions how you want
+    G_Type = "Blue", -- Options: "Blue", "Yellow", "Glitch", "Rush",
+    G_Cause = "TEST" --Put whatever you want 
+}
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ItzzGabbbb/MainStuffGABSDOORSMODS/refs/heads/main/DoorsScripts/CustomLightMessageSOURCE'))()
